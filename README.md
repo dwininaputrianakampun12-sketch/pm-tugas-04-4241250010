@@ -65,3 +65,10 @@ Asynchronous programming diterapkan melalui method masuk() dan keluar() yang men
 5. Pernyataan Penggunaan AI
 
 Dalam pengerjaan tugas ini, saya menggunakan AI sebagai bantuan untuk memahami materi dan mencari solusi ketika mengalami kesulitan dalam penulisan kode. Kode program tetap saya jalankan dan uji sendiri menggunakan Dart di VS Code.
+
+6. Pemeriksaan Program
+
+- Analisis kode: `dart analyze`
+- Pengujian program: `dart test`
+- Hasil analisis: No issues found!
+- Hasil pengujian: All tests passed!
